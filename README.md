@@ -67,7 +67,7 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» **1
 # **7.-Links o enlaces en línea**
 
 # **8.-Imágenes**
-! [Pessi](d5e.jpg)
+![Pessi](d5e.jpg)
 
 
 
