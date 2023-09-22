@@ -54,7 +54,7 @@ Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de 
 Guiones , asteriscos y el símbolo de suma se ven indiferentes.
 Para listas anidadas se añade cuatro espacios despues del siguiente.
  * Elemento de lista 1
-*     Elemento de lista 2
+     * Elemento de lista 2
 
 
 # **6.-Listas ordenadas**
