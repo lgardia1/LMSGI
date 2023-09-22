@@ -1,8 +1,8 @@
 # LMSGI
 En este repositorio vamos almacenar todos los ejercicios del modulo de *Lenguaje de marcas y sistemas de gestión de información*.
 
-**# Markdown:**
-Letra en negrita y curva: 
+**# Markdown:**   
+Letra en negrita y curva:   
 usando ** se hace la letra en cursiva   
 usando ** ** se hace la letra en negrita
 
