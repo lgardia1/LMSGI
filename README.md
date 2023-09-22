@@ -31,6 +31,21 @@ Las citas se generar utilizando el carácter mayor que **>** al comienzo del blo
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
 >> 
 > > Es decir, que ven en él al animal irracional, al animal que ríe, al animal que llora, al animal infeliz. — Friedrich Nietzsche
+>
+>Otro ejemplo de cita 
+
+# **5.-Listas**
+Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
 
 
->> Otro ejemplo de cita 
+
+
+
+
+
+
+
+
+
+
+
