@@ -10,9 +10,9 @@ Markdown es un lenguaje de macas orientado al estilo.
 usando * * y _ _ se hace la letra en cursiva   
 usando ** ** y __ __se hace la letra en negrita
 usando *** *** y ___ ___ se hace la letra negrita y cursiva
-* Primer ejemplo *
-** Segundo ejemplo **
-*** Tercer ejemplo ***
+*Primer ejemplo*
+**Segundo ejemplo**
+***Tercer ejemplo***
 
 # **2.-Párrafos y saltos de línea**
 
