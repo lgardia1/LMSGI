@@ -61,7 +61,7 @@ Para listas anidadas se añade cuatro espacios despues del siguiente.
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» **1.**. Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
 1. Elemento de lista
 2. Elemtno de lista
-    *Elemento de lista
+   * Elemento de lista
 
 
 
