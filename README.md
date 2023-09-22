@@ -64,6 +64,10 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» **1
    * Elemento de lista
 
 
+# **7.-Links o enlaces en línea**
+
+# **8.-Imágenes**
+! [Pessi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fpessi%2Fphotos&psig=AOvVaw3ciphLyoKnSkxxcSvyvTjd&ust=1695456020037000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJDIuIDgvYEDFQAAAAAdAAAAABAD)
 
 
 
