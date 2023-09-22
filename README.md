@@ -67,6 +67,7 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» **1
 # **7.-Links o enlaces en línea**
 
 "[enlace en línea](http://www.limni.net)"
+
 # **8.-Imágenes**
 
 Insertar una imagen con Markdown se realiza de una manera prácticamente idéntica a insertar links.
