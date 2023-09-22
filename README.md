@@ -66,7 +66,8 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» **1
 
 # **7.-Links o enlaces en línea**
 
-"[enlace en línea](http://www.limni.net)"
+Añadir enlaces a una publicación, más que común, hoy en día es algo casi obligatorio. Con Markdown tendrás varias formas de hacerlo.
+"[enlace en línea]([http://www.limni.net](https://www.wikipedia.org/))"
 
 # **8.-Imágenes**
 
