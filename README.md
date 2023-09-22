@@ -3,7 +3,7 @@ En este repositorio vamos almacenar todos los ejercicios del modulo de *Lenguaje
 
 **# Markdown:**
 Letra en negrita y curva: 
-usando ** se hace la letra en cursiva
+usando ** se hace la letra en cursiva   
 usando ** ** se hace la letra en negrita
 
 # **Párrafos y saltos de línea**
