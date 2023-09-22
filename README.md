@@ -3,10 +3,16 @@ En este repositorio vamos almacenar todos los ejercicios del modulo de *Lenguaje
 
 **# Markdown:**   
 
+Markdown es un lenguaje de macas orientado al estilo.
+
 # **1.-Letra en negrita y curva:**
 
-usando ** se hace la letra en cursiva   
-usando ** ** se hace la letra en negrita
+usando * * y _ _ se hace la letra en cursiva   
+usando ** ** y __ __se hace la letra en negrita
+usando *** *** y ___ ___ se hace la letra negrita y cursiva
+* Primer ejemplo *
+** Segundo ejemplo **
+*** Tercer ejemplo ***
 
 # **2.-Párrafos y saltos de línea**
 
@@ -35,7 +41,19 @@ Las citas se generar utilizando el carácter mayor que **>** al comienzo del blo
 >Otro ejemplo de cita 
 
 # **5.-Listas**
+
 Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
+
+* Elemento de lista 1
+- ELemento de lista 2
+* Elemento de lista 3 
+- Elemento de lista 4
+* Elemento de lista 5
+- Elemento de lista 6
+
+Guiones y asteriscos se ven indiferentes.
+
+# **6.-Imagen**
 
 
 
