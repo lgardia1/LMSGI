@@ -11,4 +11,12 @@ Para realizar un salto de página de
 hay que hacer 2 espacios antes  
 del intro
 
-Encabezados
+# Encabezados:
+Usando el singo hashtag, "#" usando varios hace el encabezado mas pequeño.
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
+
