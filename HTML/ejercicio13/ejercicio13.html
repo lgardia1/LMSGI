@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telebirria</title>
+</head>
+
+<body>
+    <style>
+        body {
+            width: 30%;
+            margin-left: 30%;
+        }
+        div{
+            margin-bottom: 20px;
+        }
+        fieldset{
+            padding: 20px;
+            margin: 20px;
+        }
+        input , option{
+            margin-bottom: 5px;
+        }
+    </style>
+    <div class="titulo">
+        <h1>TELEBIRRIA</h1>
+        <h2>PARA REALIZAR SU PEDIDO, RELLENE EL SIGUIENTE FORMULARIO</h2>
+    </div>
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Datos personales y de envíos</legend>
+            <label for="nombre" name="f_datos">Nombre</label>
+            <input type="text" id="nombre" name="nombre" value=" "><br>
+            <label for="apellidos">Apellidos</label>
+            <input type="text" id="apellidos" name="apellidos" value=" "><br>
+            <label for="domicilio">Domicilio</label>
+            <input type="text" id="domicilio" name="domicilio" value=" "><br>
+            <label for="localidad">Localidad</label>
+            <input type="text" id="localidad" name="apellidos" value=" "><br>
+            <label for="c_postal">Código Postal</label>
+            <input type="text" id="c_postal" name="apellidos" value=" "><br>
+            <label for="tlf">Teléfono</label>
+            <input type="text" id="tlf" name="apellidos" value=" ">
+        </fieldset>
+        <fieldset>
+            <legend>Elija la opción de entrega</legend>
+            <input type="radio" id="local" name="entrega">
+            <label for="local">Recoger en el local</label><br>
+            <input type="radio" id="domicilio" name="entrega">
+            <label for="domicilio">Enviar domicilio</label>
+        </fieldset>
+        <fieldset>
+            <legend>¿Quiere que le enviemos nuestras ofertas?</legend>
+            <input type="checkbox" id="oferta" name="publicidad">
+            <label>Recoger en el local</label><br>
+            <input type="checkbox" id="oferta" name="publicidad">
+            <label>Recoger en el local</label>
+        </fieldset>
+        <fieldset>
+            <legend>Elija su menu</legend>
+            <div>
+            <label for="tamaño">Tamaño del bocadillo</label>
+            <select id="tamaño">
+                <option value="pequeño">pequeño</option>
+                <option value="mediano">mediano</option>
+                <option value="grande">grande</option>
+                <option value="enorme">enorme</option>
+            </select>
+            </div>
+            <br>
+            <div>
+                <label>Cotenido del bocadillo</label>
+                <select multiple="4">
+                    <option value="anchoas">anchoas</option>
+                    <option value="calamares">calamares</option>
+                    <option value="mejillones">mejillones</option>
+                    <option value="jamon">jamon</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="sugerencias">Puede añadir algunas sugerencias</label>
+                <br>
+                <textarea name="message" rows="10" cols="30">Por ejemplo que caliente el pan, etc.</textarea>
+            </div>
+        </fieldset>
+        <input style="margin-left: 20px;" type="submit" value="Enviar datos">
+    </form>
+</body>
+
+</html>

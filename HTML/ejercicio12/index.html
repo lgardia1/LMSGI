@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartelera de peliculas</title>
+</head>
+
+<body>
+    <style>
+        img {
+            width: 150px;
+            height: 200px;
+        }
+
+        .imagen {
+            margin: 20px;
+            float: left;
+        }
+
+        div.peliculas {
+            padding-top: 280px;
+            margin-left: 100px;
+        }
+        img:hover {
+                box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+            }
+    </style>
+    <div>
+        <div class="imagen">
+            <a href="Peliculas.html#oppenheimer" target="iframe"><img src="oppenheimer.jpeg"></a>
+            <a href="Peliculas.html#barbie" target="iframe"><img src="barbie.jpg"></a>
+            <a href="Peliculas.html#fivenightatfreddy" target="iframe"><img src="fivenightatfreddy.jpg"></a>
+            <a href="Peliculas.html#venom" target="iframe"><img src="venom.jpg"></a>
+            <a href="Peliculas.html#spiderman" target="iframe"><img src="spiderman.jpeg"></a>
+        </div>
+        <div class="peliculas">
+            <iframe name="iframe" id="peliculas" src="Peliculas.html" style="width: 550px; height: 600px;" title="Cartelera"></iframe>
+        </div>
+    </div>
+</body>
+
+</html>
